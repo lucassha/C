@@ -7,4 +7,22 @@
 * Pointer Practice
 * Two Queues Stack
 
+<hr>
 
+I prefer 
+```
+function(){
+  //input here
+}
+```
+
+but some of these files are pre-populated with 
+
+```
+function()
+{
+  //input here
+}
+```
+
+:=)
